@@ -1,0 +1,44 @@
+{
+    "name": "wp-next-mix",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wp-next/mix.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/wp-next/mix/issues"
+    },
+    "homepage": "https://github.com/wp-next/mix#readme",
+    "devDependencies": {
+        "@babel/preset-env": "^7.12.13",
+        "autoprefixer": "^10.2.4",
+        "cross-env": "^7.0.3",
+        "css-loader": "^5.0.1",
+        "eslint": "^7.19.0",
+        "eslint-config-standard": "^16.0.2",
+        "eslint-plugin-import": "^2.22.1",
+        "eslint-plugin-node": "^11.1.0",
+        "eslint-plugin-promise": "^4.2.1",
+        "eslint-plugin-vue": "^7.5.0",
+        "eslint-webpack-plugin": "^2.4.3",
+        "laravel-mix": "^6.0.11",
+        "laravel-mix-purgecss": "^6.0.0",
+        "postcss": "^8.1.14",
+        "postcss-calc": "^8.0.0",
+        "postcss-css-variables": "^0.17.0",
+        "postcss-loader": "^5.0.0",
+        "postcss-preset-env": "^6.7.0",
+        "style-loader": "^2.0.0",
+        "tailwindcss": "^1.9.6",
+        "vue": "^2.6.12",
+        "vue-loader": "^15.9.5",
+        "vue-template-compiler": "^2.6.12"
+    }
+}
