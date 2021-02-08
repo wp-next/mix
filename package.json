@@ -16,7 +16,7 @@
         "url": "https://github.com/wp-next/mix/issues"
     },
     "homepage": "https://github.com/wp-next/mix#readme",
-    "devDependencies": {
+    "peerDependencies": {
         "@babel/preset-env": "^7.12.13",
         "autoprefixer": "^10.2.4",
         "cross-env": "^7.0.3",
